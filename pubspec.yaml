@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: Copyright Logically Magic Inc. <hello@logicallymagic.com>
+# SPDX-FileCopyrightText: Copyright Hamid Jahanzad <Hamid@Jahanzad.com>
+# SPDX-FileCopyrightText: Copyright Contributors to the Wallet8 Flutter SDK
+# SPDX-License-Identifier: Apache-2.0
 name: wallet8_flutter
 description: The Wallet8 Flutter SDK - the reusable wallet core (credential store, device keys, OID4VCI/OID4VP drivers) other verticals' wallet apps embed.
 publish_to: "none"
